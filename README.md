@@ -1,3 +1,14 @@
+# Usage for Me
+## wake up command
+* docker compose --profile download up --build
+* docker compose --profile auto up --build
+* 参考URL_https://zenn.dev/nsystk/articles/309275dddb3424
+
+## Improvement Record
+* .envの作成
+* download linkの更新
+
+
 # Stable Diffusion WebUI Docker
 
 Run Stable Diffusion on your machine with a nice UI without any hassle!
